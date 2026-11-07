@@ -1,0 +1,57 @@
+[
+  {
+    "number": "01",
+    "url": "https://leetcode.com/problems/two-sum/submissions/2191101234/",
+    "status": "Accepted",
+    "passed": 66,
+    "total": 66
+  },
+  {
+    "number": "02",
+    "url": "https://leetcode.com/problems/reverse-string/submissions/2191101917/",
+    "status": "Accepted",
+    "passed": 477,
+    "total": 477
+  },
+  {
+    "number": "03",
+    "url": "https://leetcode.com/problems/valid-anagram/submissions/2191102370/",
+    "status": "Accepted"
+  },
+  {
+    "number": "04",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2191102629/",
+    "status": "Accepted",
+    "details": "\t\t\t\t\t200 text Accepted\n\t\t\t\t\t206 text Accepted 213 / 213  testcases passed\n\t\t\t\t\t208 text Tharun submitted at Nov 07, 2026 11:42"
+  },
+  {
+    "number": "05",
+    "url": "https://leetcode.com/problems/longest-common-prefix/submissions/2191102948/",
+    "status": "Accepted",
+    "details": "\t\t\t\t\t195 text Accepted\n\t\t\t\t\t207 text Accepted 126 / 126  testcases passed\n\t\t\t\t\t209 text Tharun submitted at Nov 07, 2026 11:42"
+  },
+  {
+    "number": "06",
+    "url": "https://leetcode.com/problems/binary-search/submissions/2191103185/",
+    "status": "Accepted",
+    "details": "\t\t\t\t\t202 text Accepted\n\t\t\t\t\t214 text Accepted 47 / 47  testcases passed\n\t\t\t\t\t216 text Tharun submitted at Nov 07, 2026 11:43"
+  },
+  {
+    "number": "07",
+    "url": "https://leetcode.com/problems/move-zeroes/submissions/2191103363/",
+    "status": "Accepted",
+    "details": "\t\t\t\t\t204 text Accepted\n\t\t\t\t\t216 text Accepted 75 / 75  testcases passed\n\t\t\t\t\t218 text Tharun submitted at Nov 07, 2026 11:43"
+  },
+  {
+    "number": "08",
+    "url": "https://leetcode.com/problems/valid-parentheses/submissions/2191103630/",
+    "status": "Accepted",
+    "details": "\t\t\t\t\t242 text Accepted\n\t\t\t\t\t254 text Accepted 103 / 103  testcases passed\n\t\t\t\t\t256 text Tharun submitted at Nov 07, 2026 11:44"
+  },
+  {
+    "number": "09",
+    "url": "https://leetcode.com/problems/reverse-linked-list/submissions/2191104146/",
+    "status": "Accepted",
+    "details": "\t\t\t\t\t201 text Accepted\n\t\t\t\t\t213 text Accepted 28 / 28  testcases passed\n\t\t\t\t\t215 text Tharun submitted at Nov 07, 2026 11:45"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "checked_utc": "2026-11-07T06:08:50.336799+00:00",
+  "results": [
+    {
+      "source": "arrays-strings/01-two-sum.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 01 Two Sum: 4 cases",
+      "compile_and_run_seconds": 0.406
+    },
+    {
+      "source": "arrays-strings/02-reverse-string.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 02 Reverse String: 4 cases",
+      "compile_and_run_seconds": 0.36
+    },
+    {
+      "source": "arrays-strings/03-valid-anagram.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 03 Valid Anagram: 5 cases",
+      "compile_and_run_seconds": 0.343
+    },
+    {
+      "source": "arrays-strings/04-best-time-to-buy-and-sell-stock.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 04 Best Time to Buy and Sell Stock: 5 cases",
+      "compile_and_run_seconds": 0.344
+    },
+    {
+      "source": "arrays-strings/05-longest-common-prefix.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 05 Longest Common Prefix: 5 cases",
+      "compile_and_run_seconds": 0.375
+    },
+    {
+      "source": "basic-algorithms/06-binary-search.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 06 Binary Search: 6 cases",
+      "compile_and_run_seconds": 0.344
+    },
+    {
+      "source": "basic-algorithms/07-move-zeroes.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 07 Move Zeroes: 5 cases",
+      "compile_and_run_seconds": 0.328
+    },
+    {
+      "source": "linked-lists/09-reverse-linked-list.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 09 Reverse Linked List: 4 cases",
+      "compile_and_run_seconds": 0.312
+    },
+    {
+      "source": "stacks/08-valid-parentheses.cpp",
+      "compile_exit": 0,
+      "run_exit": 0,
+      "output": "PASS 08 Valid Parentheses: 6 cases",
+      "compile_and_run_seconds": 0.375
+    }
+  ]
+}
